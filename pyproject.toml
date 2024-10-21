@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "optimizationtask2"
+version = "0.1.0"
+description = ""
+authors = ["Woolfer0097 <Woolfer0097@yandex.ru>", "", "", ""]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^2.1.2"
+typing = "^3.7.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
